@@ -11,7 +11,7 @@ Name:		perl-Mail-SPF-Test
 Version:	1.001
 Release:	1
 License:	BSD
-group:		Development/Languages/Perl
+Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Mail/%{pdir}-%{pnam}-v%{version}.tar.gz
 # Source0-md5:	bfa7bc09260cc135fbe3955adf0168f9
 URL:		http://search.cpan.org/dist/Mail-SPF-Test/
